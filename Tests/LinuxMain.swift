@@ -1,6 +1,6 @@
 import XCTest
-@testable import LaskuTests
+@testable import LaskuCoreTests
 
 XCTMain([
-    testCase(LaskuTests.allTests),
+    testCase(LaskuCoreTests.allTests),
 ])
