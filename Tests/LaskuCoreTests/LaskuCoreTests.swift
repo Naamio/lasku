@@ -1,7 +1,7 @@
 import XCTest
-@testable import Lasku
+@testable import LaskuCore
 
-class LaskuTests: XCTestCase {
+class LaskuCoreTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
